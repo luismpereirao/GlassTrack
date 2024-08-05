@@ -1,4 +1,4 @@
-# GlassTrack - Aplicación de Gestión para Talleres de Automóviles 🚗🔧
+# GlassTrack - Aplicación de Gestión para Talleres de Sustitución de Parabrisas 🚗🔧
 ### Descripción
 GlassTrack es una aplicación web desarrollada con Java y Spring Boot para la gestión de talleres de parabrisas, usando Java y Spring Boot. El objetivo del proyecto es optimizar y simplificar las operaciones diarias de los talleres, proporcionando soluciones eficientes para la gestión de las finanzas y de los clientes.
 
